@@ -1,1 +1,3 @@
-# PySCF-tutorial
+# sandbox
+
+H$_2$
