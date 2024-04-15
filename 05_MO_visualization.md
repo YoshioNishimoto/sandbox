@@ -19,11 +19,9 @@
 可視化ソフトウェア（[VMD](https://www.ks.uiuc.edu/Research/vmd/)や[Avogadro](https://avogadro.cc/)など）はインストール済みとします。
 私は[Chemcraft](https://www.chemcraftprog.com/)を用いています。
 
-HOMO: <img src="https://github.com/YoshioNishimoto/sandbox/assets/56159416/f817c5be-f58e-4f3d-a494-240328694a8a.png" width="128">
-![ethylene_LUMO](https://github.com/YoshioNishimoto/sandbox/assets/56159416/f817c5be-f58e-4f3d-a494-240328694a8a)
+HOMO: <img src="https://github.com/YoshioNishimoto/sandbox/blob/figure/ethylene_HOMO.png" width="128">
 
-LUMO: <img src="https://github.com/YoshioNishimoto/sandbox/assets/56159416/4b073478-3749-4900-b46d-3abe3d5b3249.png" width="128">
-![ethylene_HOMO](https://github.com/YoshioNishimoto/sandbox/assets/56159416/4b073478-3749-4900-b46d-3abe3d5b3249)
+LUMO: <img src="https://github.com/YoshioNishimoto/sandbox/blob/figure/ethylene_LUMO.png" width="128">
 
 まずはエチレンを(R)HF/6-31G(d)レベル（(R)HF/STO-3Gの方が良いかも。一般的は、小さい基底関数を用いた方が分子軌道を解釈しやすくなります）で構造最適化してみてください。
 エネルギーは-78.0313607728 hartreeぐらい（数値誤差や収束判定により多少の誤差が出ます）になると思われますので、正しいか確認してください。
